@@ -66,8 +66,8 @@ Dual-degree student — B.Tech Mechanical Engineering @ IET Lucknow
 
 ---
 
-> "Ship fast. Iterate hard. Understand deeply."
-> "Hesitation is defeat."
+> **"Ship fast. Iterate hard. Understand deeply."**
+> **"Hesitation is defeat."**
 
 ---
 
