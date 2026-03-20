@@ -18,7 +18,7 @@ Dual-degree student — B.Tech Mechanical Engineering @ IET Lucknow
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Domains:** Machine Learning · Computational Mechanics · Systems Design
+**Domains:** Data Science · Computational Mechanics · Systems Design
 **Workflow:** AI-assisted development · Rapid prototyping · Single-file architectures
 
 ---
