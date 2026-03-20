@@ -31,7 +31,7 @@ Dual-degree student — B.Tech Mechanical Engineering @ IET Lucknow
   HTML/CSS/JS prototype.
 - Exploring intersections of **FEA/simulation** and **ML-based prediction**
   in mechanical systems
-- Writing low-level C and Python programs that prioritize clarity and minimalism
+- Writing Python programs that prioritize clarity and minimalism
 
 ---
 
