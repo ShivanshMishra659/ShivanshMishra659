@@ -4,6 +4,7 @@
 
 Dual-degree student — B.Tech Mechanical Engineering @ IET Lucknow
 & BS Data Science and Applications @ IIT Madras
+Aspiring Data Scientist
 
 ---
 
