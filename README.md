@@ -30,6 +30,7 @@ Aspiring Data Scientist
   gamified trust-point system, collateral-based borrowing, OTP handover
   verification, and a real-time leaderboard. Built as a single-file
   HTML/CSS/JS prototype.
+  https://campusloop.bolt.host/   A working Demo Model
 - Exploring intersections of **FEA/simulation** and **ML-based prediction**
   in mechanical systems
 - Writing Python programs that prioritize clarity and minimalism
