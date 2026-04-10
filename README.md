@@ -6,6 +6,9 @@ Dual-degree student — B.Tech Mechanical Engineering @ IET Lucknow
 & BS Data Science and Applications @ IIT Madras
 Aspiring Data Scientist
 
+Here's my portfolio website which is not made my me as i am still learning.
+https://shivansh-portfolio--shivanshmishr66.replit.app
+
 ---
 
 ## Stack & Tools
