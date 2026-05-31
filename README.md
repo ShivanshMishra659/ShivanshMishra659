@@ -144,17 +144,17 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshMishra659&theme=tokyonight&hide_border=true&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=a0a0a0"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshMishra659&theme=tokyonight&hide_border=true&ring=00ff7f&fire=39d353&currStreakLabel=00ff7f&sideLabels=00ff7f&dates=a0a0a0&stroke=00ff7f"/>
 
 <br>
 
 ## 🟩 Contribution Block Map
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshMishra659&theme=tokyo-night&hide_border=true&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&area_color=00d9ff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshMishra659&theme=tokyo-night&hide_border=true&color=00ff7f&line=39d353&point=00ff7f&area=true&area_color=39d353" width="95%"/>
 
 <br>
 
-<img src="https://ghchart.rshah.org/00d9ff/ShivanshMishra659" alt="Shivansh's GitHub contribution chart" width="95%"/>
+<img src="https://ghchart.rshah.org/00ff7f/ShivanshMishra659" alt="Shivansh's GitHub contribution chart" width="95%"/>
 
 </div>
 
