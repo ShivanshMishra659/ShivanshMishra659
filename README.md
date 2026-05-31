@@ -33,16 +33,16 @@
 
 ```python
 shivansh = {
-    "name"      : "Shivansh Mishra",
-    "location"  : "Sultanpur, Uttar Pradesh, India 🇮🇳",
-    "degrees"   : [
+    "Name"      : "Shivansh Mishra",
+    "Location"  : "Sultanpur, Uttar Pradesh, India 🇮🇳",
+    "Degrees"   : [
                     "B.Tech — Mechanical Engineering  @ IET Lucknow",
                     "BS     — Data Science & Apps     @ IIT Madras"
                   ],
-    "currently" : "Year 1 · Doing both. Simultaneously.",
-    "goal"      : "Aspiring Data Scientist",
-    "mindset"   : "Ship fast. Iterate hard. Understand deeply.",
-    "superpower": "Breaking things at the boundary of two fields 💥"
+    "Currently" : "Year 2 · Doing both. Simultaneously.",
+    "Goal"      : "Aspiring Data Scientist",
+    "Mindset"   : "Ship fast. Iterate hard. Understand deeply.",
+    "Superpower": "Breaking things at the boundary of two fields 💥"
 }
 ```
 
