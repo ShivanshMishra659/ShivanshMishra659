@@ -9,6 +9,8 @@
  ╚═════╝░╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░╚═╝░░╚═╝
 ```
 
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.Tech+ME+%40+IET+Lucknow;BS+Data+Science+%40+IIT+Madras;Aspiring+Data+Scientist;Building+at+the+boundary+of+two+fields." alt="Typing SVG" />
 
 <br>
@@ -44,48 +46,41 @@ shivansh = {
 }
 ```
 
+
+## Stack & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Domains:** Data Science · Computational Mechanics · Systems Design
+**Workflow:** AI-assisted development · Rapid prototyping · Single-file architectures
+
 ---
 
-<div align="center">
+## What I'm working on
 
-## 🛠️ Stack & Toolkit
+- **CampusLoop** — A peer-to-peer campus resource sharing platform with a
+  gamified trust-point system, collateral-based borrowing, OTP handover
+  verification, and a real-time leaderboard. Built as a single-file
+  HTML/CSS/JS prototype.
+  https://campusloop.bolt.host/   A working Demo Model
+- Exploring intersections of **FEA/simulation** and **ML-based prediction**
+  in mechanical systems
+- Writing Python programs that prioritize clarity and minimalism
 
-</div>
+---
 
-<div align="center">
+## Interests
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Data & Science**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-Domains:  Data Science  ·  Computational Mechanics  ·  Systems Design
-Workflow: AI-assisted development  ·  Rapid Prototyping  ·  Single-file Architectures
-```
-
-</div>
+- Numerical methods & simulation in engineering contexts
+- Applying supervised learning to structural/mechanical datasets
+- Building functional prototypes fast — from idea to demo in hours
 
 ---
 
@@ -136,36 +131,19 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
 
 <div align="center">
 
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShivanshMishra659&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00d9ff&icon_color=00d9ff" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshMishra659&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff" height="170"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshMishra659&theme=tokyonight&hide_border=true&ring=00ff7f&fire=39d353&currStreakLabel=00ff7f&sideLabels=00ff7f&dates=a0a0a0&stroke=00ff7f"/>
-
-<br>
-
-## 🟩 Contribution Block Map
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshMishra659&theme=tokyo-night&hide_border=true&color=00ff7f&line=39d353&point=00ff7f&area=true&area_color=39d353" width="95%"/>
-
-<br>
-
-<img src="https://ghchart.rshah.org/00ff7f/ShivanshMishra659" alt="Shivansh's GitHub contribution chart" width="95%"/>
-
-</div>
 
 ---
 
-<div align="center">
+## GitHub Stats
 
-## 🧭 Currently Learning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivanshMishra659&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshMishra659&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshMishra659&theme=tokyonight&hide_border=true"/>
+</p>
 ```
  2026 Learning Roadmap
  ──────────────────────────────────────────────────────────
@@ -180,48 +158,13 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
 
 ---
 
-<div align="center">
-
-## 💡 Interests & Deep Dives
-
-</div>
-
-<div align="center">
-
-| 🔢 Numerical Methods | 🤖 ML on Structural Data | ⚡ Rapid Prototyping |
-|:---:|:---:|:---:|
-| Simulation & FEA in engineering contexts | Supervised learning on mechanical/structural datasets | Idea → working demo in hours, not weeks |
-
-| 🧩 Interdisciplinary Thinking | 🎨 Frontend & UX | 🏆 Hackathons |
-|:---:|:---:|:---:|
-| CS × Mechanical Engineering × Data Science | UI/UX, pitch decks, clean interfaces | Building under pressure, fast |
-
-</div>
+> **"Ship fast. Iterate hard. Understand deeply."**
+> **"Hesitation is defeat."**
 
 ---
 
-<div align="center">
+📬 Open to collaborations, hackathons, and anything that breaks at the boundary
+of two fields.
 
-## 📬 Let's Connect
 
-*Open to collaborations, hackathons, and anything that breaks at the boundary of two fields.*
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shivansh--portfolio-00d9ff?style=for-the-badge)](https://shivansh-portfolio--shivanshmishr66.replit.app)
-
-<br>
-
----
-
-<br>
-
-> *"Ship fast. Iterate hard. Understand deeply."*
->
-> *"Hesitation is defeat."*
-
-<br>
-
-**`// always building · always learning · always shipping`**
-
-</div>
