@@ -144,7 +144,17 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshMishra659&theme=tokyonight&hide_border=true&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshMishra659&theme=tokyonight&hide_border=true&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=a0a0a0"/>
+
+<br>
+
+## 🟩 Contribution Block Map
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshMishra659&theme=tokyo-night&hide_border=true&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&area_color=00d9ff" width="95%"/>
+
+<br>
+
+<img src="https://ghchart.rshah.org/00d9ff/ShivanshMishra659" alt="Shivansh's GitHub contribution chart" width="95%"/>
 
 </div>
 
