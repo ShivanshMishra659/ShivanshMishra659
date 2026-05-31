@@ -144,6 +144,10 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshMishra659&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivanshMishra659&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
 ```
  2026 Learning Roadmap
  ──────────────────────────────────────────────────────────
@@ -154,8 +158,7 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
   ▸ System Design Fundamentals    ███░░░░░░░░░  just started
   ▸ Linux & Shell                 █████░░░░░░░  building up
  ──────────────────────────────────────────────────────────
-```
-
+---
 ---
 
 > **"Ship fast. Iterate hard. Understand deeply."**
