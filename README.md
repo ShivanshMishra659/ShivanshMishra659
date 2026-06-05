@@ -136,15 +136,14 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
 
 ## GitHub Stats
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshMishra659&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshMishra659&theme=tokyonight&hide_border=true"/>
 </p>
 
+
+<div align="center">
 ```
+
  2026 Learning Roadmap
  ──────────────────────────────────────────────────────────
   ▸ Git & Version Control         ████████░░░░  mastering
