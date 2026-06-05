@@ -136,19 +136,15 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivanshMishra659&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00d9ff&icon_color=00d9ff" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshMishra659&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff" height="170"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshMishra659&theme=tokyonight&hide_border=true&ring=00ff7f&fire=39d353&currStreakLabel=00ff7f&sideLabels=00ff7f&dates=a0a0a0&stroke=00ff7f"/>
-
-<br>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivanshMishra659&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshMishra659&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshMishra659&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ```
  2026 Learning Roadmap
