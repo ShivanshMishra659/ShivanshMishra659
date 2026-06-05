@@ -141,7 +141,6 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
 </p>
 
 
-<div align="center">
 ```
 
  2026 Learning Roadmap
