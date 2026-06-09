@@ -34,15 +34,12 @@
 ```python
 shivansh = {
     "Name"      : "Shivansh Mishra",
-    "Location"  : "Sultanpur, Uttar Pradesh, India 🇮🇳",
     "Degrees"   : [
                     "B.Tech — Mechanical Engineering  @ IET Lucknow",
                     "BS     — Data Science & Apps     @ IIT Madras"
                   ],
     "Currently" : "Year 2 · Doing both. Simultaneously.",
     "Goal"      : "Aspiring Data Scientist",
-    "Mindset"   : "Ship fast. Iterate hard. Understand deeply.",
-    "Superpower": "Breaking things at the boundary of two fields 💥"
 }
 ```
 
