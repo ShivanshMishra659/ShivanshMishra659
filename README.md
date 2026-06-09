@@ -34,10 +34,8 @@
 ```python
 shivansh = {
     "Name"      : "Shivansh Mishra",
-    "Degrees"   : [
-                    "B.Tech — Mechanical Engineering  @ IET Lucknow",
-                    "BS     — Data Science & Apps     @ IIT Madras"
-                  ],
+    "Degrees"   : ["B.Tech — Mechanical Engineering  @ IET Lucknow",
+                    "BS     — Data Science & Apps     @ IIT Madras"],
     "Currently" : "Year 2 · Doing both. Simultaneously.",
     "Goal"      : "Aspiring Data Scientist",
 }
