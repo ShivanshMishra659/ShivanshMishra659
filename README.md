@@ -103,7 +103,6 @@ A platform where students **lend, borrow, and share** resources with a gamified 
 - 📲 OTP handover verification
 - ⚡ Built as a rapid single-file HTML/CSS/JS prototype
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-campusloop.bolt.host-ff6b6b?style=flat-square)](https://campusloop.bolt.host/)
 
 </td>
 <td width="50%" valign="top">
