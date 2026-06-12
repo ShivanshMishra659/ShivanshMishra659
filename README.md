@@ -19,7 +19,6 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00d9ff?style=for-the-badge)](https://shivansh-portfolio--shivanshmishr66.replit.app)
 &nbsp;
-[![CampusLoop](https://img.shields.io/badge/🔗_CampusLoop-Live_Demo-ff6b6b?style=for-the-badge)](https://campusloop.bolt.host/)
 
 </div>
 
