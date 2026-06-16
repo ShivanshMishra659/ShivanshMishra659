@@ -34,8 +34,8 @@
 shivansh = {
     "Name"      : "Shivansh Mishra",
     "Degrees"   : ["B.Tech — Mechanical Engineering  @ IET Lucknow",
-                    "BS     — Data Science & Apps     @ IIT Madras"],
-    "Currently" : "Year 2 · Doing both. Simultaneously.",
+                    "BS     — Data Science & Applications    @ IIT Madras"],
+    "Currently" : "Sophomore · Doing both. Simultaneously.",
     "Goal"      : "Aspiring Data Scientist",
 }
 ```
