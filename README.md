@@ -154,12 +154,6 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshMishra659&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
-## 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShivanshMishra659/ShivanshMishra659/output/ocean.gif" alt="Contribution Snake Animation">
-</p>
----
 ## GitHub Stats
 
 <p align="center">
