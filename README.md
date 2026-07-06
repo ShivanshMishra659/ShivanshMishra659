@@ -138,7 +138,7 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
 ## 📊 GitHub Analytics
 
 <p align="center">
-  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivanshMishra659&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=ShivanshMishra659&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
