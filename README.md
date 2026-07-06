@@ -137,6 +137,60 @@ Exploring the intersection of **Finite Element Analysis** and **ML-based predict
 
 <p align="center">
 
+## 📊 GitHub Contributions & Activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShivanshMishra659&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ShivanshMishra659&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivanshMishra659&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshMishra659&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivanshMishra659&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/ShivanshMishra659/ShivanshMishra659/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShivanshMishra659&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+## 📈 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivanshMishra659&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivanshMishra659&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivanshMishra659&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivanshMishra659&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivanshMishra659&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+
+## 👀 Profile Views
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=ShivanshMishra659&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 
 ```
 
