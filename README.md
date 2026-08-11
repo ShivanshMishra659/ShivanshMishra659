@@ -93,7 +93,7 @@ shivansh = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔁 CampusLoop
+### 🔁 <a href="https://purr-tacit-81919839.figma.site/">CampusLoop</a>
 > *Peer-to-peer campus resource sharing — reimagined*
 
 A platform where students **lend, borrow, and share** resources with a gamified trust system.
