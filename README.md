@@ -65,10 +65,10 @@ shivansh = {
 
 ## What I'm working on
 
-- **CampusLoop** — A peer-to-peer campus resource sharing platform with a
+- **<a href="https://purr-tacit-81919839.figma.site/">CampusLoop</a>** — A peer-to-peer campus resource sharing platform with a
   gamified trust-point system, collateral-based borrowing, OTP handover
   verification, and a real-time leaderboard. Built as a single-file
-  HTML/CSS/JS prototype. <a href="https://purr-tacit-81919839.figma.site/">CampusLoop</a>
+  HTML/CSS/JS prototype.
 - Exploring intersections of **FEA/simulation** and **ML-based prediction**
   in mechanical systems
 - Writing Python programs that prioritize clarity and minimalism
