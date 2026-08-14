@@ -17,9 +17,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShivanshMishra659&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00d9ff?style=for-the-badge)]((https://engineering-and-ml-p-q2rk.bolt.host))
-&nbsp;
-<href><https://engineering-and-ml-p-q2rk.bolt.host><Portfolio>
+<a href="https://engineering-and-ml-p-q2rk.bolt.host">[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00d9ff?style=for-the-badge)]</a>
 </div>
 
 ---
