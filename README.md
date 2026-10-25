@@ -65,7 +65,7 @@ shivansh = {
 
 ## What I'm working on
 
-- **<a href="https://purr-tacit-81919839.figma.site/">CampusLoop</a>** — A peer-to-peer campus resource sharing platform with a
+- **<a href="[https://campus-loop-dun.vercel.app/]">CampusLoop</a>** — A peer-to-peer campus resource sharing platform with a
   gamified trust-point system, collateral-based borrowing, OTP handover
   verification, and a real-time leaderboard. Built as a single-file
   HTML/CSS/JS prototype.
